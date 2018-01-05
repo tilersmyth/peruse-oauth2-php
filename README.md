@@ -28,7 +28,7 @@ Add the following to your `composer.json` file.
 ```json
 {
     "require": {
-        "tilersmyth/oauth2-peruse": "^2.0"
+        "tilersmyth/oauth2-peruse": "^1.0"
     }
 }
 ```
